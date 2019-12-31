@@ -1,0 +1,20 @@
+{
+  "name": "@m1yh3m/base.64.table.node.lib",
+  "version": "1.0.0",
+  "description": "A node lib to get base64 table in various formats",
+  "main": "base64.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/base.64.table.node.lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1yh3m/base.64.table.node.lib/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/base.64.table.node.lib#readme"
+}
