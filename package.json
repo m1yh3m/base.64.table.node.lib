@@ -1,6 +1,6 @@
 {
   "name": "@m1yh3m/base.64.table.node.lib",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A node lib to get base64 table in various formats",
   "main": "base64.js",
   "scripts": {
